@@ -117,4 +117,4 @@ dist
 .pnp.*
 
 devTools/
-.idea
+.idea/
